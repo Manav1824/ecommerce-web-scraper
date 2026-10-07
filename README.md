@@ -8,7 +8,7 @@ A robust Python web scraping tool designed to extract product catalogs from e-co
 - **Clean Output:** Automatically formats raw HTML data into a clean, ready-to-use `CSV` file.
 
 ## Tech Stack
-- Python 3
+- Python 3.14
 - `requests` (HTTP requests)
 - `BeautifulSoup4` (HTML parsing)
 - `csv` (Data structuring)
